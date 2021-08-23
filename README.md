@@ -1,2 +1,2 @@
 # j-bis.github.io
-bob
+JJ's CSCE 190 page
