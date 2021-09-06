@@ -1,7 +1,7 @@
 # j-bis.github.io
 JJ's CSCE 190 page
 
-teams pdf: https://docs.google.com/spreadsheets/d/1dlmD2AGsU2QKK2Fu9AB7Hv_I6vjcn0D4-PguEnmNmrg/edit#gid=0
+teams pdf: https://github.com/j-bis/j-bis.github.io/blob/97050c7fe28fd980a1a7e0fe9d4299dd13df7585/Teams.pdf
 
 Problem statement: https://github.com/j-bis/j-bis.github.io/blob/009f72db8e1e290bc5a469f8769d92b48e93e37f/190problemStatement.pdf
 
